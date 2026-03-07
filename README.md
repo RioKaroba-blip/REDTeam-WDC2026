@@ -1,37 +1,31 @@
 # REDTeam-WDC2026
-UI/UX Website Design for IFEST WDC 2026 – RED Team
+Desain UI/UX Website untuk IFEST WDC 2026 – RED Team
 
 ## RED Team – IFEST WDC 2026
 
-This repository contains the UI/UX website design project** created for the IFEST #14 Web Development Competition (WDC) 2026.
+Repository ini berisi proyek desain UI/UX website yang dibuat untuk mengikuti Web Development Competition (WDC) IFEST #14 tahun 2026.
 
-Repository ini berisi proyek desain UI/UX website** yang dibuat untuk mengikuti Web Development Competition (WDC) IFEST #14 tahun 2026.
+## Deskripsi Kompetisi
 
-## Competition Description / Deskripsi Kompetisi
+Web Development Competition adalah kompetisi yang berfokus pada perancangan sistem dan desain website. Dengan tema “Empowering Students Through Innovative Productivity Tools”, kompetisi ini mendorong mahasiswa untuk menciptakan solusi web yang inovatif, sederhana, dan fungsional untuk membantu meningkatkan produktivitas belajar.
 
-Web Development Competition adalah kompetisi yang berfokus pada perancangan sistem dan desain website. Dengan tema “Empowering Students Through Innovative Productivity Tools”, kompetisi ini mendorong mahasiswa untuk membuat solusi web yang inovatif untuk meningkatkan produktivitas belajar.
+## Judul Proyek
 
-Web Development Competition is a competition focused on designing systems and website-based solutions. With the theme “Empowering Students Through Innovative Productivity Tools” this competition encourages students to create innovative web solutions to improve learning productivity.
-
-## Project Title
-
-Student Productivity Platform 
+Student Productivity Platform  
 Platform Produktivitas Mahasiswa
 
-## Project Description
+## Deskripsi Proyek
 
-This project is a UI/UX design for a Student Productivity Platform that helps students manage tasks, organize study schedules, and track learning progress.
+Proyek ini merupakan desain UI/UX Platform Produktivitas Mahasiswa yang bertujuan membantu mahasiswa dalam mengelola tugas kuliah, mengatur jadwal belajar, serta memantau progres belajar dalam satu platform yang terintegrasi.
 
-Proyek ini merupakan desain UI/UX Platform Produktivitas Mahasiswa yang membantu mahasiswa mengelola tugas kuliah, mengatur jadwal belajar, dan memantau progres belajar.
-
-## Design Prototype
+## Prototype Desain
 
 Figma Design File:  
 https://www.figma.com/design/YvMwrSiJmaEH3b0CTlizIy/Student-Productivity-Platform?node-id=1-985&t=z3f8lNw0AiRGs97u-1
 
-## Preview
+## Halaman Utama
 
-This UI/UX design includes several main pages:
+Desain UI/UX ini mencakup beberapa halaman utama:
 
 - Login  
 - Sign Up  
@@ -39,47 +33,52 @@ This UI/UX design includes several main pages:
 - Tugas (Task Management)  
 - Study Planner  
 - Progress Tracker  
-- Catatan (Notes)  
+- Catatan  
 - Profil  
 - Notifikasi  
 
-## Features / Fitur
 
-- Task Management  
-  Manage academic tasks, deadlines, and priorities easily.
+## Fitur Sistem
 
-- Study Planner  
-  Create structured study schedules to improve learning efficiency.
+- Manajemen Tugas
+  Mengelola tugas kuliah, deadline, dan prioritas tugas dengan mudah.
 
-- Learning Progress Tracker  
-  Monitor learning progress through graphs and statistics.
+- Study Planner 
+  Membuat jadwal belajar yang terstruktur untuk meningkatkan efektivitas belajar.
 
-- Digital Study Notes  
-  Store and manage lecture notes digitally.
+- Pelacak Progres Belajar
+  Memantau perkembangan belajar melalui grafik dan statistik.
 
-- Deadline Reminder
-  Get reminders for upcoming task deadlines.
+- Catatan Kuliah Digital  
+  Menyimpan dan mengelola catatan kuliah secara digital.
 
-- Modern and Interactive UI Design  
-  Clean, modern, and user-friendly interface.
+- Pengingat Deadline Tugas
+  Memberikan notifikasi untuk mengingatkan deadline tugas.
 
-- Responsive Layout
-  Designed for both desktop and mobile devices.
-## Objectives / Tujuan
+- Desain UI Modern dan Interaktif  
+  Tampilan antarmuka yang bersih, modern, dan mudah digunakan.
 
-Improve student productivity in managing academic activities  
-Help students organize study schedules effectively  
-Provide a centralized platform for managing academic tasks  
-Enhance learning experience through productivity tools 
- 
-## Team Members
+- Tampilan Responsif  
+  Dirancang agar dapat digunakan pada perangkat desktop maupun mobile.
+
+## Tujuan
+
+- Meningkatkan produktivitas mahasiswa dalam mengelola aktivitas akademik  
+- Membantu mahasiswa mengatur jadwal belajar secara lebih efektif  
+- Menyediakan platform terpusat untuk mengelola tugas kuliah  
+- Meningkatkan pengalaman belajar melalui alat produktivitas digital  
+
+## Anggota Tim
+
 Rio Terando Karoba  
 Efri Kogoya  
 Dera Kogoya  
 
-## Institution
+## Institusi
+
 Institut Teknologi Del
 
-## Competition
-Informatics Festival (IFEST) #14
+## Kompetisi
+
+Informatics Festival (IFEST) #14  
 Web Development Competition (WDC) 2026
