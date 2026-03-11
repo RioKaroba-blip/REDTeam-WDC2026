@@ -1,84 +1,95 @@
 # REDTeam-WDC2026
+
 Desain UI/UX Website untuk IFEST WDC 2026 – RED Team
 
-## RED Team – IFEST WDC 2026
+RED Team – IFEST WDC 2026
 
 Repository ini berisi proyek desain UI/UX website yang dibuat untuk mengikuti Web Development Competition (WDC) IFEST #14 tahun 2026.
 
-## Deskripsi Kompetisi
+# Deskripsi Kompetisi
 
-Web Development Competition adalah kompetisi yang berfokus pada perancangan sistem dan desain website. Dengan tema “Empowering Students Through Innovative Productivity Tools”, kompetisi ini mendorong mahasiswa untuk menciptakan solusi web yang inovatif, sederhana, dan fungsional untuk membantu meningkatkan produktivitas belajar.
+Web Development Competition merupakan kompetisi yang berfokus pada perancangan sistem dan desain website. Dengan tema “Empowering Students Through Innovative Productivity Tools”, kompetisi ini mendorong mahasiswa untuk menciptakan solusi web yang inovatif, sederhana, dan fungsional melalui pemanfaatan teknologi web.
 
-## Judul Proyek
+# Judul Proyek
 
-Student Productivity Platform  
-Platform Produktivitas Mahasiswa
+Elizabeth Ulos – Platform E-Commerce Ulos Batak
 
-## Deskripsi Proyek
+# Deskripsi Proyek
 
-Proyek ini merupakan desain UI/UX Platform Produktivitas Mahasiswa yang bertujuan membantu mahasiswa dalam mengelola tugas kuliah, mengatur jadwal belajar, serta memantau progres belajar dalam satu platform yang terintegrasi.
+Proyek ini merupakan desain UI/UX website e-commerce yang bertujuan untuk mempermudah masyarakat dalam menemukan dan membeli berbagai jenis Ulos Batak secara online.
 
-## Prototype Desain
+Platform ini menyediakan berbagai pilihan ulos tradisional dengan tampilan website yang modern, sederhana, dan mudah digunakan. Selain itu, website ini juga bertujuan untuk membantu mempromosikan kain ulos sebagai warisan budaya Batak melalui teknologi digital.
 
-Figma Design File:  
-https://www.figma.com/design/YvMwrSiJmaEH3b0CTlizIy/Student-Productivity-Platform?node-id=1-985&t=z3f8lNw0AiRGs97u-1
+Prototype Desain
 
-## Halaman Utama
+# Figma Design File:
+https://www.figma.com/design/n1bDNtLVuH1fv1ZVSEBIy5/website-e-commerce
 
+# Halaman Utama
 Desain UI/UX ini mencakup beberapa halaman utama:
 
-- Login  
-- Sign Up  
-- Dashboard  
-- Tugas (Task Management)  
-- Study Planner  
-- Progress Tracker  
-- Catatan  
-- Profil  
-- Notifikasi  
+Beranda
 
+Tentang Kami
 
-## Fitur Sistem
+Produk
 
-- Manajemen Tugas
-  Mengelola tugas kuliah, deadline, dan prioritas tugas dengan mudah.
+Detail Produk
 
-- Study Planner 
-  Membuat jadwal belajar yang terstruktur untuk meningkatkan efektivitas belajar.
+Ulasan Pelanggan
 
-- Pelacak Progres Belajar
-  Memantau perkembangan belajar melalui grafik dan statistik.
+Login Admin
 
-- Catatan Kuliah Digital  
-  Menyimpan dan mengelola catatan kuliah secara digital.
+Fitur Sistem
+Katalog Produk
 
-- Pengingat Deadline Tugas
-  Memberikan notifikasi untuk mengingatkan deadline tugas.
+Menampilkan berbagai jenis ulos Batak yang tersedia lengkap dengan gambar, deskripsi, dan harga.
 
-- Desain UI Modern dan Interaktif  
-  Tampilan antarmuka yang bersih, modern, dan mudah digunakan.
+Produk Terlaris
 
-- Tampilan Responsif  
-  Dirancang agar dapat digunakan pada perangkat desktop maupun mobile.
+Menampilkan produk ulos yang paling banyak diminati oleh pelanggan.
 
-## Tujuan
+Informasi Produk
 
-- Meningkatkan produktivitas mahasiswa dalam mengelola aktivitas akademik  
-- Membantu mahasiswa mengatur jadwal belajar secara lebih efektif  
-- Menyediakan platform terpusat untuk mengelola tugas kuliah  
-- Meningkatkan pengalaman belajar melalui alat produktivitas digital  
+Memberikan informasi detail mengenai jenis ulos, fungsi dalam adat Batak, serta bahan yang digunakan.
 
-## Anggota Tim
+Ulasan Pelanggan
 
-Rio Terando Karoba  
-Efri Kogoya  
-Dera Kogoya  
+Menampilkan ulasan pelanggan untuk meningkatkan kepercayaan pembeli.
 
-## Institusi
+Sistem Login Admin
+
+Memungkinkan admin untuk mengelola produk yang ditampilkan di website.
+
+Desain UI Modern
+
+Tampilan antarmuka dirancang sederhana, bersih, dan mudah digunakan oleh pengguna.
+
+Tampilan Responsif
+
+Website dirancang agar dapat digunakan pada berbagai perangkat seperti desktop dan mobile.
+
+# Tujuan
+
+Mempermudah masyarakat dalam menemukan dan membeli ulos secara online
+
+Membantu mempromosikan kain ulos sebagai warisan budaya Batak
+
+Mendukung digitalisasi penjualan produk tradisional melalui teknologi web
+
+Memberikan pengalaman belanja online yang mudah dan nyaman
+
+# Anggota Tim:
+
+Rio Terando Karoba
+Efri Kogoya
+Dera Kogoya
+
+# Institusi
 
 Institut Teknologi Del
 
-## Kompetisi
+# Kompetisi
 
-Informatics Festival (IFEST) #14  
+Informatics Festival (IFEST) #14
 Web Development Competition (WDC) 2026
